@@ -1,6 +1,6 @@
 # Tasker BusTime Widget
 
-Utilizes Tasker and Minimalistic Text: Widgets to display live bus number,departure, and arrival times on the home screen
+Utilizes Tasker and Minimalistic Text: Widgets to display bus number,departure, and arrival times for the best route home on your home screen
 
 ## Required
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
